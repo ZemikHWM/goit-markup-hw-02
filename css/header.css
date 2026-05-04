@@ -1,5 +1,5 @@
-header {
-  background-color: #ffffff;
+.section-header {
+  background-color: #fff;
 }
 .header-logo {
   font-family: 'Raleway', serif;
@@ -34,6 +34,7 @@ header {
   text-decoration: underline;
 }
 .header-contacts {
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
