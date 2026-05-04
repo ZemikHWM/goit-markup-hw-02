@@ -1,0 +1,46 @@
+header {
+  background-color: #ffffff;
+}
+.header-logo {
+  font-family: 'Raleway', serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.header-logo:hover,
+.header-logo:focus {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+.logo-accent {
+  color: #4d5ae5;
+}
+.header-nav-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.header-nav-item:hover,
+.header-nav-item:focus {
+  color: #404bbf;
+}
+.header-nav-item:active {
+  color: #404bbf;
+  text-decoration: underline;
+}
+.header-contacts {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.header-contacts:hover,
+.header-contacts:focus {
+  color: #404bbf;
+}
